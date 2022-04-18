@@ -1,0 +1,10 @@
+EXPORTS
+
+bloom_init
+bloom_init_size
+bloom_check
+bloom_add
+bloom_print
+bloom_free
+bloom_reset
+bloom_version

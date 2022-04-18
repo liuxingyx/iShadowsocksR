@@ -1,0 +1,96 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Appirater (2.3.1)
+  - Aspects (0.0.1)
+  - AsyncSwift (2.0.4)
+  - Cartography (3.0.4)
+  - ICDMaterialActivityIndicatorView (0.1.3)
+  - ICSMainFramework (0.0.1)
+  - ICSPullToRefresh (0.6)
+  - ISO8601DateFormatter (0.8)
+  - KeychainAccess (3.1.2)
+  - MBProgressHUD (1.2.0)
+  - ObjectMapper (4.2.0)
+  - PSOperations (4.0.2):
+    - PSOperations/Calendar (= 4.0.2)
+    - PSOperations/Core (= 4.0.2)
+    - PSOperations/Health (= 4.0.2)
+    - PSOperations/Location (= 4.0.2)
+    - PSOperations/Passbook (= 4.0.2)
+  - PSOperations/Calendar (4.0.2):
+    - PSOperations/Core
+  - PSOperations/Core (4.0.2)
+  - PSOperations/Health (4.0.2):
+    - PSOperations/Core
+  - PSOperations/Location (4.0.2):
+    - PSOperations/Core
+  - PSOperations/Passbook (4.0.2):
+    - PSOperations/Core
+  - Realm (2.10.2):
+    - Realm/Headers (= 2.10.2)
+  - Realm/Headers (2.10.2)
+  - RealmSwift (2.10.2):
+    - Realm (= 2.10.2)
+  - SwiftColor (1.4.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Appirater
+  - Aspects (from `./Library/Aspects/`)
+  - AsyncSwift
+  - Cartography (~> 3.0.4)
+  - ICDMaterialActivityIndicatorView (~> 0.1.0)
+  - ICSMainFramework (from `./Library/ICSMainFramework/`)
+  - ICSPullToRefresh (~> 0.6)
+  - ISO8601DateFormatter (~> 0.8)
+  - KeychainAccess (~> 3.1.1)
+  - MBProgressHUD
+  - ObjectMapper
+  - PSOperations (~> 4.0.1)
+  - RealmSwift (~> 2.10.2)
+  - SwiftColor
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Appirater
+    - AsyncSwift
+    - Cartography
+    - ICDMaterialActivityIndicatorView
+    - ICSPullToRefresh
+    - ISO8601DateFormatter
+    - KeychainAccess
+    - MBProgressHUD
+    - ObjectMapper
+    - PSOperations
+    - Realm
+    - RealmSwift
+    - SwiftColor
+
+EXTERNAL SOURCES:
+  Aspects:
+    :path: "./Library/Aspects/"
+  ICSMainFramework:
+    :path: "./Library/ICSMainFramework/"
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Appirater: 44a4651f7912a17dc906b655f0c215d5bb768b84
+  Aspects: 35254a4a73948e7bc1118ce0554674f77467a80b
+  AsyncSwift: 65775a7b32e740609b24969ece3de58723b9dc3e
+  Cartography: 95171f461b42d5c62066212941421b21dfa0240f
+  ICDMaterialActivityIndicatorView: 52e3f11f27ebf0b53a7bc7725f416b1a182367b6
+  ICSMainFramework: 56240e9556d3b0755fc9c934a91ee8ebd09cb753
+  ICSPullToRefresh: a64f102c6558cc34270ea60e99df7c91d1f3d2c0
+  ISO8601DateFormatter: 4551b6ce4f83185425f583b0b3feb3c7b59b942c
+  KeychainAccess: b3816fddcf28aa29d94b10ec305cd52be14c472b
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  PSOperations: b84c5714fba6dafefc0c414060d9581e2cc2ebfa
+  Realm: 0ef72b837fb67e9f4b098bac771ddd72c7fdbb69
+  RealmSwift: 07a9ae0505091eda6b2ee7c190c3786d6e90a7b0
+  SwiftColor: 2b0fd15257981f23265f9939f311098159fe6d1c
+
+PODFILE CHECKSUM: 6137d32a4f3faa48e67bd76bce4ae8d97f0c0115
+
+COCOAPODS: 1.11.3

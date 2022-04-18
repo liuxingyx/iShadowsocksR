@@ -1,0 +1,8 @@
+source 'https://cdn.cocoapods.org/'
+use_frameworks!
+platform :osx, "10.9"
+
+
+target 'KissXMLTests' do
+  pod "KissXML", :path => "../../"
+end

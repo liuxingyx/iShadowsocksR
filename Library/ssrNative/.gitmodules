@@ -1,0 +1,36 @@
+[submodule "depends/json-c"]
+	path = depends/json-c
+	url = https://github.com/ShadowsocksR-Live/json-c.git
+	branch = master
+[submodule "depends/libsodium"]
+	path = depends/libsodium
+	url = https://github.com/ShadowsocksR-Live/libsodium.git
+	branch = master
+[submodule "depends/libuv"]
+	path = depends/libuv
+	url = https://github.com/ShadowsocksR-Live/libuv.git
+	branch = v1.x
+[submodule "depends/mbedtls"]
+	path = depends/mbedtls
+	url = https://github.com/ShadowsocksR-Live/mbedtls.git
+	branch = master
+[submodule "depends/http-parser"]
+	path = depends/http-parser
+	url = https://github.com/ShadowsocksR-Live/http-parser.git
+	branch = master
+[submodule "depends/uv-mbed"]
+	path = depends/uv-mbed
+	url = https://github.com/ShadowsocksR-Live/uv-mbed.git
+	branch = master
+[submodule "depends/libbloom"]
+	path = depends/libbloom
+	url = https://github.com/ShadowsocksR-Live/libbloom.git
+	branch = master
+[submodule "depends/uri-encode"]
+	path = depends/uri-encode
+	url = https://github.com/ShadowsocksR-Live/uri-encode-c.git
+	branch = master
+[submodule "depends/cstl"]
+	path = depends/cstl
+	url = https://github.com/ShadowsocksR-Live/cstl.git
+	branch = master

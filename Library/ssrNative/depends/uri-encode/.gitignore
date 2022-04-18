@@ -1,0 +1,13 @@
+*.o
+*.a
+build/
+.vscode/
+.vs/
+Debug/
+Release/
+x64/
+ipch/
+*.vcxproj.user
+*.sdf
+*.suo
+*.opensdf

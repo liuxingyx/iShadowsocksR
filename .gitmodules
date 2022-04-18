@@ -1,0 +1,35 @@
+[submodule "Library/CallbackURLKit"]
+	path = Library/CallbackURLKit
+	url = https://github.com/ShadowsocksR-Live/CallbackURLKit.git
+[submodule "Library/Eureka"]
+	path = Library/Eureka
+	url = https://github.com/xmartlabs/Eureka.git
+	branch = master
+[submodule "Library/yaml"]
+	path = Library/yaml
+	url = https://github.com/ShadowsocksR-Live/yaml.git
+	branch = master
+[submodule "Library/CocoaAsyncSocket"]
+	path = Library/CocoaAsyncSocket
+	url = https://github.com/robbiehanson/CocoaAsyncSocket.git
+	branch = master
+[submodule "Library/MMWormhole"]
+	path = Library/MMWormhole
+	url = https://github.com/ShadowsocksR-Live/MMWormhole.git
+	branch = master
+[submodule "Library/KissXML"]
+	path = Library/KissXML
+	url = https://github.com/robbiehanson/KissXML.git
+	branch = master
+[submodule "Library/libmaxminddb"]
+	path = Library/libmaxminddb
+	url = https://github.com/ShadowsocksR-Live/libmaxminddb.git
+	branch = master
+[submodule "Library/CocoaLumberjack"]
+	path = Library/CocoaLumberjack
+	url = https://github.com/CocoaLumberjack/CocoaLumberjack.git
+	branch = master
+[submodule "Library/ssrNative"]
+	path = Library/ssrNative
+	url = https://github.com/ShadowsocksR-Live/shadowsocksr-native.git
+	branch = master

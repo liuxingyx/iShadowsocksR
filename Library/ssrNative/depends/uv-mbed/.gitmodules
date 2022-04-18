@@ -1,0 +1,8 @@
+[submodule "mbedtls"]
+	path = mbedtls
+	url = https://github.com/ShadowsocksR-Live/mbedtls.git
+	branch = master
+[submodule "libuv"]
+	path = libuv
+	url = https://github.com/ShadowsocksR-Live/libuv.git
+	branch = v1.x
